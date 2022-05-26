@@ -24,4 +24,4 @@ Currently a second-year college student at [Pateros Technological College](https
 
 [![Facebook](https://img.shields.io/badge/facebook-jmrl23-transparent?style=social&logo=facebook)](https://www.facebook.com/JmrL23)
 
-[![E-mail](https://img.shields.io/badge/Email-jojogaitera@gmail.com-transparent?style=social&logo=gmail)](mailto:jojogaitera@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![E-mail](https://img.shields.io/badge/Email-jojogaitera@gmail.com-transparent?style=social&logo=gmail)](mailto:jojogaitera@gmail.com)
