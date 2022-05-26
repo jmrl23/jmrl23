@@ -1,6 +1,8 @@
 # Aspiring Full-Stack Web Developer
 
-<img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" alt="Banner" width="800" />
+<div align="center">
+  <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" alt="Banner" width="400" />
+</div>
 
 ## Hi there, I'm Jomariel 👋
 
