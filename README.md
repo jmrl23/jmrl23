@@ -8,8 +8,6 @@
 
 Currently a third-year college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
-![](https://komarev.com/ghpvc/?username=jmrl23&color=ff69b4&style=for-the-badge)
-
 ![stat](https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false)
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact)
