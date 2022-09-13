@@ -6,7 +6,7 @@
 
 ## Hi there, I'm Jomariel 👋
 
-Currently a second-year college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
+Currently a third-year college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 ![](https://komarev.com/ghpvc/?username=jmrl23&color=ff69b4&style=for-the-badge)
 
@@ -16,14 +16,10 @@ Currently a second-year college student at [Pateros Technological College](https
 
 ---
 
-<img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/html-5.svg" width="50" /> <img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/css-3.svg" width="50" /> 
-<img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/javascript.svg" width="50" /> <img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/php.svg" width="100" /> 
-<img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/nodejs.svg" width="50" /> <img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/sass.svg" width="75" /> 
-<img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/tailwindcss.svg" width="125" /> <img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/express.svg" width="100" /> 
-<img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/mysql.svg" width="100" /> <img src="https://raw.githubusercontent.com/jmrl23/jmrl23/main/tech-stack/mongodb.svg" width="100" />
+[![techtacks](https://skillicons.dev/icons?i=php,tailwind,express,nest,next)](https://github.com/jmrl23)
 
 ---
 
 [![Facebook](https://img.shields.io/badge/facebook-jmrl23-transparent?style=social&logo=facebook)](https://www.facebook.com/JmrL23)
 
-[![E-mail](https://img.shields.io/badge/Email-jojogaitera@gmail.com-transparent?style=social&logo=gmail)](mailto:jojogaitera@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-gaiterajomariel@gmail.com-transparent?style=social&logo=gmail)](mailto:gaiterajomariel@gmail.com)
