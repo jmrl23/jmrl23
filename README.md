@@ -1,16 +1,18 @@
 # Aspiring Full-Stack Web Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" alt="Banner" />
+  <a href="#">
+    <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" alt="Banner" />
+  </a>
 </div>
 
 ## Hi there, I'm Jomariel 👋
 
 Currently a third-year college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
-![stat](https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false)
+[![stat](https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false)](#)
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact)
+[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact)](#)
 
 ---
 
