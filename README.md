@@ -16,7 +16,7 @@ Currently a third-year college student at [Pateros Technological College](https:
 
 ---
 
-[![techtacks](https://skillicons.dev/icons?i=php,tailwind,express,nest,next)](https://github.com/jmrl23)
+[![techtacks](https://skillicons.dev/icons?i=php,tailwind,express,next,prisma)](https://github.com/jmrl23)
 
 ---
 
