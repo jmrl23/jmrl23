@@ -19,8 +19,8 @@ Currently a third-year college student at [Pateros Technological College](https:
 <br />
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&layout=compact&theme=tokyonight&hide=html,ejs,css,scss,shell" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&layout=compact&hide=html,ejs,css,scss,shell" />
 </picture>
 
 ---
