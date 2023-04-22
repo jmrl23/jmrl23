@@ -1,22 +1,31 @@
-# Aspiring Full-Stack Web Developer
+# Aspiring Back-End Developer
 
 <div align="center">
-  <a href="#">
-    <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" alt="Banner" />
-  </a>
+  <picture>
+    <source srcset="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" media="(prefers-color-scheme: dark)" />
+    <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" />
+  </picture>
 </div>
 
 ## Hi there, I'm Jomariel 👋
 
 Currently a third-year college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
-[![stat](https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false)](#)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false" />
+</picture>
 
-[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact)](#)
+<br />
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&hide=html,ejs,css,scss,shell&layout=compact" />
+</picture>
 
 ---
 
-[![techtacks](https://skillicons.dev/icons?i=php,tailwind,express,next,prisma)](https://github.com/jmrl23)
+[![techtacks](https://skillicons.dev/icons?i=php,tailwind,express,react,prisma&theme=dark)](https://github.com/jmrl23)
 
 ---
 
