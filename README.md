@@ -9,7 +9,7 @@
 
 ## Hi there, I'm Jomariel 👋
 
-Currently a third-year college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
+Currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight" media="(prefers-color-scheme: dark)" />
