@@ -1,4 +1,4 @@
-# Back-End Developer
+# Aspiring Back-End Developer
 
 <div align="center">
   <picture>
@@ -25,10 +25,17 @@ Currently a college student at [Pateros Technological College](https://www.faceb
 
 ---
 
-[![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,nest,prisma&theme=dark)](https://github.com/jmrl23)
+[![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,prisma&theme=dark)](https://github.com/jmrl23)
+
+<a href="https://fastify.dev/">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/fastify/graphics/master/fastify-1000px-square-01.svg" width="50" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-1000px-square-02.svg" width="50" />
+  </picture>
+</a>
 
 ---
 
-[![Facebook](https://img.shields.io/badge/facebook-jmrl23-transparent?style=social&logo=facebook)](https://www.facebook.com/JmrL23)
+[![Facebook](https://img.shields.io/badge/facebook-Jomariel-transparent?style=social&logo=facebook)](https://www.facebook.com/4a6d724c3233)
 
 [![E-mail](https://img.shields.io/badge/Email-gaiterajomariel@gmail.com-transparent?style=social&logo=gmail)](mailto:gaiterajomariel@gmail.com)
