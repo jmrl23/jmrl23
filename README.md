@@ -25,7 +25,7 @@ Currently a college student at [Pateros Technological College](https://www.faceb
 
 ---
 
-[![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,prisma&theme=dark)](https://github.com/jmrl23)
+[![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
 
 <a href="https://fastify.dev/">
   <picture>
