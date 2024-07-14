@@ -12,19 +12,11 @@
 Currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&rank_icon=github&hide=contribs,issues&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&rank_icon=github&hide=contribs,issues&include_all_commits=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&rank_icon=github&hide=contribs,issues&include_all_commits=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&rank_icon=github&hide=contribs,issues&include_all_commits=true&hide_border=true" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### Stacks
+### current stacks
 
 [![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
 
@@ -34,6 +26,13 @@ Currently a college student at [Pateros Technological College](https://www.faceb
     <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-1000px-square-02.svg" width="50" />
   </picture>
 </a>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
