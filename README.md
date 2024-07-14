@@ -9,8 +9,6 @@
 
 ## Hi there, I'm Jomariel 👋
 
-![spotify](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fspotapi-one.vercel.app%2Fbadge%2Fspotify%3Fkey%3Deb362a)
-
 Currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 <picture>
@@ -37,6 +35,8 @@ Currently a college student at [Pateros Technological College](https://www.faceb
 </a>
 
 ---
+
+![spotify](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fspotapi-one.vercel.app%2Fbadge%2Fspotify%3Fkey%3Deb362a)
 
 [![Facebook](https://img.shields.io/badge/facebook-Jomariel-transparent?style=social&logo=facebook)](https://www.facebook.com/4a6d724c3233)
 
