@@ -12,18 +12,19 @@
 Currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&rank_icon=github&hide=contribs,issues&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&rank_icon=github&hide=contribs,issues&include_all_commits=true" />
 </picture>
 
-<br />
-
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&layout=compact&theme=tokyonight&hide=html%2Cejs%2Ccss%2Cscss%2Cshell%2Cmustache" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrl23&layout=compact&hide=html%2Cejs%2Ccss%2Cscss%2Cshell%2Cmustache" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
 </picture>
 
 ---
+
+### Stacks
 
 [![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
 
@@ -36,7 +37,7 @@ Currently a college student at [Pateros Technological College](https://www.faceb
 
 ---
 
-![spotify](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fspotapi-one.vercel.app%2Fbadge%2Fspotify%3Fkey%3Deb362a)
+[![spotify](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fspotapi-one.vercel.app%2Fbadge%2Fspotify%3Fkey%3Deb362a)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 [![Facebook](https://img.shields.io/badge/facebook-Jomariel-transparent?style=social&logo=facebook)](https://www.facebook.com/4a6d724c3233)
 
