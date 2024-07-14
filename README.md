@@ -12,9 +12,11 @@
 Currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&rank_icon=github&hide=contribs,issues&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&rank_icon=github&hide=contribs,issues&hide_border=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs,issues" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&hide_border=true&rank_icon=github&hide=contribs,issues" />
 </picture>
+
+<br />
 
 <picture>
   <source srcset="https://streak-stats.demolab.com/?user=jmrl23&theme=tokyonight&hide_border=true&hide_longest_streak=true&card_width=450&card_height=170" media="(prefers-color-scheme: dark)" />
