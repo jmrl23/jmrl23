@@ -1,15 +1,13 @@
 # Aspiring Software Engineer
 
-<div align="center">
-  <picture>
-    <source srcset="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" media="(prefers-color-scheme: dark)" />
-    <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
+</picture>
 
-## Hi there, I'm Jomariel 👋
+## Hey!
 
-Currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
+I'm Jomariel, currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs,issues" media="(prefers-color-scheme: dark)" />
@@ -33,13 +31,6 @@ Currently a college student at [Pateros Technological College](https://www.faceb
     <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-1000px-square-02.svg" width="50" />
   </picture>
 </a>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
