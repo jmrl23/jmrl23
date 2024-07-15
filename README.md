@@ -23,7 +23,7 @@ I'm Jomariel, currently a college student at [Pateros Technological College](htt
 
 ### current stacks
 
-[![techtacks](https://skillicons.dev/icons?i=typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
+[![techtacks](https://skillicons.dev/icons?i=nodejs,typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
 
 <a href="https://fastify.dev/">
   <picture>
