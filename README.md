@@ -21,7 +21,7 @@ I'm Jomariel, currently a college student at [Pateros Technological College](htt
   <img src="https://streak-stats.demolab.com/?user=jmrl23&theme=meta-light&hide_border=true&hide_longest_streak=true&card_width=450&card_height=170" />
 </picture>
 
-### current stacks
+### current stack
 
 [![techtacks](https://skillicons.dev/icons?i=nodejs,typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
 
