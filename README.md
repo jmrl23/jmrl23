@@ -34,8 +34,9 @@ I'm Jomariel, currently a college student at [Pateros Technological College](htt
 
 ---
 
-[![spotify](https://img.shields.io/endpoint?url=https%3A%2F%2Fspotapi-one.vercel.app%2Fspotify%2Fbadge%3Fkey%3Deb362a)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 [![Facebook](https://img.shields.io/badge/facebook-Jomariel-transparent?style=social&logo=facebook)](https://www.facebook.com/4a6d724c3233)
 
 [![E-mail](https://img.shields.io/badge/Email-gaiterajomariel@gmail.com-transparent?style=social&logo=gmail)](mailto:gaiterajomariel@gmail.com)
+
+[![spotify](https://img.shields.io/endpoint?url=https%3A%2F%2Fspotapi-one.vercel.app%2Fspotify%2Fbadge%3Fkey%3Deb362a)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
