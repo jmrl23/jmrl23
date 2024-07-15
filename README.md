@@ -34,7 +34,7 @@ I'm Jomariel, currently a college student at [Pateros Technological College](htt
 
 ---
 
-[![spotify](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fspotapi-one.vercel.app%2Fbadge%2Fspotify%3Fkey%3Deb362a)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[![spotify](https://img.shields.io/endpoint?url=https%3A%2F%2Fspotapi-one.vercel.app%2Fspotify%2Fbadge%3Fkey%3Deb362a)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 [![Facebook](https://img.shields.io/badge/facebook-Jomariel-transparent?style=social&logo=facebook)](https://www.facebook.com/4a6d724c3233)
 
