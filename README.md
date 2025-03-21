@@ -17,8 +17,8 @@ I'm Jomariel, currently a college student at [Pateros Technological College](htt
 <br />
 
 <picture>
-  <source srcset="https://streak-stats.demolab.com/?user=jmrl23&theme=tokyonight&hide_border=true&hide_longest_streak=true&card_width=450&card_height=170" media="(prefers-color-scheme: dark)" />
-  <img src="https://streak-stats.demolab.com/?user=jmrl23&theme=meta-light&hide_border=true&hide_longest_streak=true&card_width=450&card_height=170" />
+  <source srcset="https://streak-stats.demolab.com?user=jmrl23&theme=tokyonight&hide_border=true&mode=weekly&card_width=450&card_height=170&hide_current_streak=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://streak-stats.demolab.com?user=jmrl23&theme=meta-light&hide_border=true&mode=weekly&card_width=450&card_height=170&hide_current_streak=true" />
 </picture>
 
 ### current stack
