@@ -7,7 +7,7 @@
 
 ## Hey!
 
-I'm Jomariel, currently a college student at [Pateros Technological College](https://www.facebook.com/ptc1993/).
+I'm Jomariel, a passionate and innovative individual, ready to contribute to the real-world problems.
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs,issues" media="(prefers-color-scheme: dark)" />
