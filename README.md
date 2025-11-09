@@ -38,5 +38,3 @@ I'm Jomariel, a passionate and innovative individual, ready to contribute to the
 [![Facebook](https://img.shields.io/badge/facebook-Jomariel-transparent?style=social&logo=facebook)](https://www.facebook.com/jomariel.gaitera.0x17)
 
 [![E-mail](https://img.shields.io/badge/Email-gaiterajomariel@gmail.com-transparent?style=social&logo=gmail)](mailto:gaiterajomariel@gmail.com)
-
-[![spotify](https://img.shields.io/endpoint?url=https%3A%2F%2Fspotibadge.vercel.app%2Faf9746%2Fbadge-data)](https://open.spotify.com/user/57yzwxl6un17hs9bixnfkppkt)
