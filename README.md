@@ -23,7 +23,7 @@ I'm Jomariel, a passionate and innovative individual, ready to contribute to the
 
 ### current stack
 
-[![techtacks](https://skillicons.dev/icons?i=nodejs,typescript,react,tailwind,express,prisma,docker&theme=dark)](https://github.com/jmrl23)
+[![techtacks](https://skillicons.dev/icons?i=nodejs,typescript,react,next,tailwind,express,nest,mongodb,postgres,prisma,redis,github,docker,linux,vite,gcp&theme=dark)](https://github.com/jmrl23)
 
 <a href="https://fastify.dev/">
   <picture>
