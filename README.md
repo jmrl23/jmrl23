@@ -7,9 +7,9 @@
 
 ## Hey!
 
-I'm Jomariel, a passionate and innovative individual, ready to contribute to the real-world problems.
+I'm Jomariel, a Junior Software Engineer.
 
-<picture>
+<!-- <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs,issues" media="(prefers-color-scheme: dark)" />
   <img src="https://github-readme-stats.vercel.app/api?username=jmrl23&count_private=false&hide_border=true&rank_icon=github&hide=contribs,issues" />
 </picture>
@@ -19,7 +19,7 @@ I'm Jomariel, a passionate and innovative individual, ready to contribute to the
 <picture>
   <source srcset="https://streak-stats.demolab.com?user=jmrl23&theme=tokyonight&hide_border=true&mode=weekly&card_width=450&card_height=170&hide_current_streak=true" media="(prefers-color-scheme: dark)" />
   <img src="https://streak-stats.demolab.com?user=jmrl23&theme=meta-light&hide_border=true&mode=weekly&card_width=450&card_height=170&hide_current_streak=true" />
-</picture>
+</picture> -->
 
 ### current stack
 
