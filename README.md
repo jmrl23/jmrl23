@@ -1,4 +1,4 @@
-# Aspiring Software Engineer
+# Junior Software Engineer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmrl23/jmrl23/snk/github-contribution-grid-snake-dark.svg">
